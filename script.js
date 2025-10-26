@@ -226,7 +226,7 @@ if (document.getElementById('clearDataBtn')) {
             y: {
               beginAtZero: false,
               title: {
-                display: true,display: true,
+                display: true,
                 text: 'Weight (kg)'
               }
             },
@@ -238,9 +238,8 @@ if (document.getElementById('clearDataBtn')) {
             }
           }
         }
-      });
+      });});
     }
   }
   
   
-Enter file contents here
